@@ -2,63 +2,54 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Ide Festival</title>
-
-    <link rel="stylesheet" href="css/normalize.css" />
-    <link rel="stylesheet" href="css/flexboxgrid.css" />
-    <link rel="stylesheet" href="css/estilo.css" />
-
-
+    <title></title>
+    <link rel="stylesheet" href="css/estilo.css">
   </head>
   <body>
-
-
-    <div id="wrapper">
-    	<div id="lg---1024x768-01">
-    		<img src="images/lg-@-1024x768_01.jpg" width="750" height="194" alt="">
+    <div id="Table_01">
+    	<div id="id1920x1080-01">
+    		<img src="images/1920x1080_01.jpg" width="1920" height="42" alt="">
+    	</div>
+    	<div id="id1920x1080-02">
+    		<img src="images/1920x1080_02.jpg" width="1317" height="356" alt="">
     	</div>
     	<div id="instagram">
-    	   <a href="https://instagram.com/idefestival" target="_blank"><img src="images/instagram.jpg" width="124" height="59" alt=""></a>
+    		<a href="https://www.instagram.com/idefestival" target="_blank">
+    			<img src="images/instagram.jpg" width="225" height="92" border="0" alt=""></a>
     	</div>
     	<div id="facebook">
-    		<a href="https://facebook.com/idefestival" target="_blank"><img src="images/facebook.jpg" width="123" height="59" alt=""></a>
+    		<a href="https://www.facebook.com/idefestival" target="_blank">
+    			<img src="images/facebook.jpg" width="218" height="92" border="0" alt=""></a>
     	</div>
-    	<div id="lg---1024x768-04">
-    		<img src="images/lg-@-1024x768_04.jpg" width="27" height="597" alt="">
+    	<div id="id1920x1080-05">
+    		<img src="images/1920x1080_05.jpg" width="160" height="1038" alt="">
     	</div>
-    	<div id="lg---1024x768-05">
-    		<img src="images/lg-@-1024x768_05.jpg" width="247" height="135" alt="">
+    	<div id="id1920x1080-06">
+    		<img src="images/1920x1080_06.jpg" width="443" height="264" alt="">
     	</div>
-    	<div id="lg---1024x768-06">
-    		<img src="images/lg-@-1024x768_06.jpg" width="465" height="403" alt="">
+    	<div id="id1920x1080-07">
+    		<img src="images/1920x1080_07.jpg" width="909" height="682" alt="">
     	</div>
     	<div id="youtube">
-        <iframe width="532" height="316" src="https://www.youtube.com/embed/KJ30sS6crxI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+        <iframe width="851" height="487" src="https://www.youtube.com/embed/KJ30sS6crxI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     	</div>
-    	<div id="lg---1024x768-08">
-    		<img src="images/lg-@-1024x768_08.jpg" width="532" height="17" alt="">
+    	<div id="id1920x1080-09">
+    		<img src="images/1920x1080_09.jpg" width="851" height="38" alt="">
     	</div>
-    	<div id="lg---1024x768-09">
-    		<img src="images/lg-@-1024x768_09.jpg" width="240" height="70" alt="">
+    	<div id="id1920x1080-10">
+    		<img src="images/1920x1080_10.jpg" width="303" height="157" alt="">
     	</div>
-    	<div id="primeirasessao">
+    	<div id="primeira-sessao">
     		<a href="http://bit.ly/idefestivalinfantil" target="_blank">
-    			<img src="images/primeirasessao.jpg" width="143" height="55" border="0" alt="Entre no Sympla e compre seu Ingresso!"></a>
+    			<img src="images/primeira-sessao.jpg" width="291" height="97" border="0" alt=""></a>
     	</div>
-    	<div id="segunda-sessao">
+    	<div id="segunda-sessa">
     		<a href="http://bit.ly/idefestivalconference" target="_blank">
-    			<img src="images/segunda-sessao.jpg" width="149" height="55" border="0" alt="Compre seu ingresso no Sympla!"></a>
+    			<img src="images/segunda-sessa.jpg" width="257" height="97" border="0" alt=""></a>
     	</div>
-    	<div id="lg---1024x768-12">
-    		<img src="images/lg-@-1024x768_12.jpg" width="292" height="15" alt="">
+    	<div id="id1920x1080-13">
+    		<img src="images/1920x1080_13.jpg" width="548" height="60" alt="">
     	</div>
     </div>
-
-
-    <!-- <div class="container">
-
-    </div> -->
-
   </body>
 </html>
