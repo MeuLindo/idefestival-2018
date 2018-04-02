@@ -1,113 +1,113 @@
 
 
-#Table_01 {
-	position:absolute;
-	left:0px;
-	top:0px;
-	width:1920px;
-	height:1080px;
+#Tabela_01 {
+	position:relative;
+	margin-left: auto;
+  margin-right: auto;
+	width:1366px;
+	height:794px;
 }
 
-#id1920x1080-01 {
+#xl-1366x768-01 {
 	position:absolute;
 	left:0px;
 	top:0px;
-	width:1920px;
+	width:1366px;
 	height:42px;
 }
 
-#id1920x1080-02 {
+#xl-1366x768-02 {
 	position:absolute;
 	left:0px;
 	top:42px;
-	width:1317px;
-	height:356px;
+	width:938px;
+	height:237px;
 }
 
 #instagram {
 	position:absolute;
-	left:1317px;
+	left:938px;
 	top:42px;
-	width:225px;
-	height:92px;
+	width:158px;
+	height:63px;
 }
 
 #facebook {
 	position:absolute;
-	left:1542px;
+	left:1096px;
 	top:42px;
-	width:218px;
-	height:92px;
+	width:151px;
+	height:63px;
 }
 
-#id1920x1080-05 {
+#xl-1366x768-05 {
 	position:absolute;
-	left:1760px;
+	left:1247px;
 	top:42px;
-	width:160px;
-	height:1038px;
+	width:119px;
+	height:752px;
 }
 
-#id1920x1080-06 {
+#xl-1366x768-06 {
 	position:absolute;
-	left:1317px;
-	top:134px;
-	width:443px;
-	height:264px;
+	left:938px;
+	top:105px;
+	width:309px;
+	height:174px;
 }
 
-#id1920x1080-07 {
+#xl-1366x768-07 {
 	position:absolute;
 	left:0px;
-	top:398px;
-	width:909px;
-	height:682px;
+	top:279px;
+	width:656px;
+	height:515px;
 }
 
 #youtube {
 	position:absolute;
-	left:909px;
-	top:398px;
-	width:851px;
-	height:487px;
+	left:656px;
+	top:279px;
+	width:591px;
+	height:347px;
 }
 
-#id1920x1080-09 {
+#xl-1366x768-09 {
 	position:absolute;
-	left:909px;
-	top:885px;
-	width:851px;
-	height:38px;
+	left:656px;
+	top:626px;
+	width:591px;
+	height:12px;
 }
 
-#id1920x1080-10 {
+#xl-1366x768-10 {
 	position:absolute;
-	left:909px;
-	top:923px;
-	width:303px;
-	height:157px;
+	left:656px;
+	top:638px;
+	width:213px;
+	height:156px;
 }
 
-#primeira-sessao {
+#sympla-um {
 	position:absolute;
-	left:1212px;
-	top:923px;
-	width:291px;
-	height:97px;
+	left:869px;
+	top:638px;
+	width:193px;
+	height:65px;
 }
 
-#segunda-sessa {
+#sympla-dois {
 	position:absolute;
-	left:1503px;
-	top:923px;
-	width:257px;
-	height:97px;
+	left:1062px;
+	top:638px;
+	width:185px;
+	height:65px;
 }
 
-#id1920x1080-13 {
+#xl-1366x768-13 {
 	position:absolute;
-	left:1212px;
-	top:1020px;
-	width:548px;
-	height:60px;
+	left:869px;
+	top:703px;
+	width:378px;
+	height:91px;
 }
